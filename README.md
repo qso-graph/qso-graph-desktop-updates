@@ -38,3 +38,5 @@ format and the steps are in the application's
 [docs/RELEASES.md](https://github.com/qso-graph/qso-graph-desktop/blob/develop/docs/RELEASES.md).
 
 `CNAME` names the address GitHub Pages serves this at; `.nojekyll` serves the files as they are.
+
+GPL-3.0-or-later. See LICENSE.
